@@ -1,0 +1,15 @@
+WINDOW VS DOCUMENT
+
+WINDOW
+1) The window is at a root/top level at the JavaScript object hierarchy.
+2) The properties related to it are stored in the window object.
+3) The window is the global element for all objects, functions, etc.
+4) It is an object of the browser.
+5) We can access document object properties inside the window.
+
+DOCUMENT
+1) A document is an object inside the window object and we use a document object for manipulation inside the document.
+2) It represents the document loaded inside the window or browser.
+3) The properties related to it are stored in the document object.
+4) It is the root element of the document object model.
+5) We can not access windows objects properties inside the document.
